@@ -1,4 +1,5 @@
 # Analytics Portfolio
+My name is Bodee Blackett and this is a portfolio of all the work done throughout this data anayltics course.
 
 ## My Résumé
 - [Résumé](https://colab.research.google.com/drive/157yLXxVQcCzgx5LBsgQFM-J-KnOmXRWT?usp=sharing)
@@ -25,4 +26,4 @@
    - [A6 Segmentation (retail transactions and behavioral segmentation)](https://colab.research.google.com/drive/1OTIulE4ltViVSGHT0VmPH8S9V7IOf0xf?usp=sharing)
   
 7. **Module 7: Use GitHub to Create Your Assignment Portfolio**
-    - A7 [List Your Data Analytics Skills](https://github.com/alexanderresearch/Analytics/edit/main/README.md)
+    - [A7 List Your Data Analytics Skills](#)
