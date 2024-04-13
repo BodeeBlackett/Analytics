@@ -4,7 +4,7 @@
 This is the portfolio of all class assignments I have completed in Data Analytics. 
 
 ## My Résumé
-- [Résumé](https://colab.research.google.com/drive/1tFdiqPA3LXoTgoKSXNWEK7DcJoUIglKu?usp=sharing)
+- [Résumé](https://colab.research.google.com/drive/157yLXxVQcCzgx5LBsgQFM-J-KnOmXRWT?usp=sharing)
 
 ## Table of Contents
 1. **Module 1: Using Colab**
