@@ -26,4 +26,4 @@ My name is Bodee Blackett and this is a portfolio of all the work done throughou
    - [A6 Segmentation (retail transactions and behavioral segmentation)](https://colab.research.google.com/drive/1OTIulE4ltViVSGHT0VmPH8S9V7IOf0xf?usp=sharing)
   
 7. **Module 7: Use GitHub to Create Your Assignment Portfolio**
-    - [A7 List Your Data Analytics Skills](#)
+    - [A7 List Your Data Analytics Skills](https://github.com/BodeeBlackett/Analytics/blob/622df3797bdde6111d0552bc9ce17032a0fbecaf/README.md)
