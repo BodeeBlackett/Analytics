@@ -2,13 +2,13 @@
 My name is Bodee Blackett and this is a portfolio of all the work done throughout this data anayltics course.
 
 ## My Résumé
-- [Résumé](https://colab.research.google.com/drive/157yLXxVQcCzgx5LBsgQFM-J-KnOmXRWT?usp=sharing)
+* [Résumé](https://colab.research.google.com/drive/157yLXxVQcCzgx5LBsgQFM-J-KnOmXRWT?usp=sharing)
 
 ---
 
 ## Table of Contents
 1. **Module 1: Using Colab**
-   - [A1: Markdown CV](https://colab.research.google.com/drive/157yLXxVQcCzgx5LBsgQFM-J-KnOmXRWT?usp=sharing)
+   * [A1: Markdown CV](https://colab.research.google.com/drive/157yLXxVQcCzgx5LBsgQFM-J-KnOmXRWT?usp=sharing)
 
 2. **Module 2: Fundamentals of Programming for Data Analysis**
    - [A2 Programming Fundamentals](https://colab.research.google.com/drive/1lWI3O9jxKJwOaHM8B0DBYCrKzKvGnJrt?usp=sharing)
